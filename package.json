@@ -1,6 +1,6 @@
 {
   "name": "stylelint-config-mirego",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "💅 The shareable stylelint configuration we use at Mirego",
   "main": "index.js",
   "scripts": {
