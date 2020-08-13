@@ -25,7 +25,7 @@
   },
   "homepage": "https://github.com/mirego/stylelint-config-mirego#readme",
   "dependencies": {
-    "stylelint-mirego": "github:mirego/stylelint-mirego#chore/update-stylint",
+    "stylelint-mirego": "^0.2.5",
     "stylelint-order": "^4.1.0"
   },
   "devDependencies": {
