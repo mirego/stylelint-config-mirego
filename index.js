@@ -31,7 +31,7 @@ module.exports = {
     'declaration-block-trailing-semicolon': 'always',
     'declaration-colon-space-after': 'always-single-line',
     'declaration-colon-space-before': 'never',
-    'declaration-property-value-blacklist': {'/^border/': ['none']},
+    'declaration-property-value-disallowed-list': {'/^border/': ['none']},
     'function-calc-no-unspaced-operator': true,
     'function-comma-newline-after': 'always-multi-line',
     'function-comma-space-after': 'always-single-line',
