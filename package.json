@@ -25,10 +25,11 @@
   },
   "homepage": "https://github.com/mirego/stylelint-config-mirego#readme",
   "dependencies": {
+    "stylelint-config-prettier": "^8.0.2",
     "stylelint-mirego": "^0.2.5",
     "stylelint-order": "^4.1.0"
   },
   "devDependencies": {
-    "stylelint": "^13.6.1"
+    "stylelint": "^13.13.1"
   }
 }
