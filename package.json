@@ -27,9 +27,9 @@
   "dependencies": {
     "stylelint-config-prettier": "^8.0.2",
     "stylelint-mirego": "^0.2.5",
-    "stylelint-order": "^4.1.0"
+    "stylelint-order": "^5.0.0"
   },
   "devDependencies": {
-    "stylelint": "^13.13.1"
+    "stylelint": "^14.3.0"
   }
 }
