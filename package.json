@@ -30,5 +30,8 @@
   },
   "devDependencies": {
     "stylelint": "^15.2.0"
+  },
+  "peerDependencies": {
+    "stylelint": "^15.0.0"
   }
 }
