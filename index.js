@@ -1,7 +1,6 @@
 'use strict';
 
 module.exports = {
-  extends: ['stylelint-config-prettier'],
   plugins: ['stylelint-mirego', 'stylelint-order'],
   rules: {
     'at-rule-no-unknown': [
@@ -20,12 +19,9 @@ module.exports = {
     'function-calc-no-unspaced-operator': true,
     'function-linear-gradient-no-nonstandard-direction': true,
     'function-url-quotes': 'always',
-    'function-whitespace-after': 'always',
     'length-zero-no-unit': true,
     'media-feature-name-no-unknown': true,
     'media-feature-name-no-vendor-prefix': true,
-    'media-feature-range-operator-space-after': 'always',
-    'media-feature-range-operator-space-before': 'always',
     'mirego/box-shadow-optional-values': 2,
     'mirego/prefer-sass-rgba-function': 2,
     'mirego/single-decimal-line-height': 2,
