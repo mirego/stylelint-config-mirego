@@ -5,7 +5,7 @@ module.exports = {
   rules: {
     'at-rule-no-unknown': [
       true,
-      {ignoreAtRules: ['mixin', 'content', 'include']},
+      {ignoreAtRules: ['mixin', 'content', 'include', 'use']},
     ],
     'at-rule-no-vendor-prefix': true,
     'block-no-empty': true,
