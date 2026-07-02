@@ -1,6 +1,6 @@
 'use strict';
 
-module.exports = {
+export default {
   plugins: ['stylelint-mirego', 'stylelint-order'],
   rules: {
     'at-rule-no-unknown': [
