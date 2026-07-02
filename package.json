@@ -3,6 +3,7 @@
   "version": "2.3.0",
   "description": "💅 The shareable stylelint configuration we use at Mirego",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
