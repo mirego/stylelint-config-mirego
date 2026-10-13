@@ -28,6 +28,4 @@ jobs:
           fi
 
       - name: Publish
-        run: npm publish --provenance --access public
-        env:
-          NODE_AUTH_TOKEN: ${{ secrets.MIREGO_NPM_READWRITE_TOKEN }}
+        run: npm publish --access public
