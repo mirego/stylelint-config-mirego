@@ -3,6 +3,7 @@
   "version": "2.3.0",
   "description": "💅 The shareable stylelint configuration we use at Mirego",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -26,12 +27,12 @@
   "homepage": "https://github.com/mirego/stylelint-config-mirego#readme",
   "dependencies": {
     "stylelint-mirego": "^0.2.5",
-    "stylelint-order": "^6.0.3"
+    "stylelint-order": "^8.1.1"
   },
   "devDependencies": {
-    "stylelint": "^15.2.0"
+    "stylelint": "^17.14.0"
   },
   "peerDependencies": {
-    "stylelint": "^15.0.0"
+    "stylelint": "^16.18.0 || ^17.0.0"
   }
 }
